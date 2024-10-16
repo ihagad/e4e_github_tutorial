@@ -1,7 +1,6 @@
 Section 1
 
 Section 2
-John made this change
 
 Section 3
 
